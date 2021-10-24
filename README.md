@@ -1,7 +1,7 @@
 # 2021-MCM-B-Finalist-sharing
 2021 MCM B Finalist paper sharing.
 
-This is our [paper](./22100059-paper.pdf)
+This is our [paper](./2100059-paper.pdf)
 
 This is our [award evidence](./2100059-award.pdf)
 
