@@ -11,4 +11,4 @@ Here is spw part of [notes](./spw_part). This is not good notes and you may not 
 
 Best luck to you all~~
 
-If any question, feel welcome to submit an issue.
+If any question, welcome to submit an issue.
